@@ -39,3 +39,4 @@ migrations/bin
 migrations/pkg
 migrations/bin/*
 migrations/pkg/*
+migrations/*.sql
